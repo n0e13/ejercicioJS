@@ -1,4 +1,4 @@
-// 1.- variable tipo let de nombre 'variableSinValor' está declarada sin valor
+[// 1.- variable tipo let de nombre 'variableSinValor' está declarada sin valor
 let variableSinValor;
 
 // 2.- 2 variables tipo let de nombres 'booleano1' y 'booleano2' está declarada y es de tipo booleano
